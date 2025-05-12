@@ -35,7 +35,7 @@ An AI-powered CAPTCHA solver built with PyTorch that achieves up to **100%** acc
    git clone https://github.com/your-username/AI-Captcha-Solver.git
    cd AI-Captcha-Solver
 
-
+---
 2. **Create & activate a Python 3.12 venv**
 
     ```bash
@@ -44,14 +44,11 @@ An AI-powered CAPTCHA solver built with PyTorch that achieves up to **100%** acc
     python3.12 -m venv venv
     source venv/bin/activate    # Linux / macOS
     venv\Scripts\activate       # Windows
-    
-    ```bash
-
-      
+---      
 3. **Install dependencies**
       pip install -r requirements.txt
 
-      
+---     
 4. **Run Script**
       python train.py
    
