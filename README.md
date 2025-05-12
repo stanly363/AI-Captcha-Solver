@@ -46,9 +46,11 @@ An AI-powered CAPTCHA solver built with PyTorch that achieves up to **100%** acc
     venv\Scripts\activate       # Windows
 ---      
 3. **Install dependencies**
+      ```bash
       pip install -r requirements.txt
 
 ---     
 4. **Run Script**
+      ```bash
       python train.py
    
